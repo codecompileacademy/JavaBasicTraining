@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"importtest.t1","l":"A"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"importtest.t2","l":"B"},{"p":"importtest.t2","l":"C"},{"p":"comments","l":"CommentTest"},{"p":"importtest.t1","l":"D"},{"p":"identifiertest","l":"IdentifierTest"}];updateSearchResults();
